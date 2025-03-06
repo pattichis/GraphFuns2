@@ -73,6 +73,17 @@ class graph_funs:
        self.colors.append(self.DefaultColor)
     else:
        self.colors.append(color)
+
+
+  def add_inverse_fun(self, f, domain, f_name=None, color=None):
+    """ adds the inverse function to the current list.
+    """
+    # Define variables
+    x, y = symbols('x y')
+    
+    # Solve for x in terms of y (inverse function)
+    inverse_f = solve(y - f_x, x)
+    self.add_fun(inverse_f, domain, f_name, color)
     
 
   def add_funs(self, fun_list, domain_list, fun_names_list=None, color=None):
