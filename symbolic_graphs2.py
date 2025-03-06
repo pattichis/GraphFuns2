@@ -1,7 +1,7 @@
 import plotly.graph_objects as go
 import numpy as np
 import sympy as sp
-
+from sympy import symbols, solve
 
 from io import BytesIO
 from PIL import Image
