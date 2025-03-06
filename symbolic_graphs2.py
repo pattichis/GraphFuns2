@@ -82,7 +82,8 @@ class graph_funs:
     x, y = symbols('x y')
     
     # Solve for x in terms of y (inverse function)
-    inverse_f = solve(y - f, x)
+    inverse_f = solve(y - f, x)[0]
+    inverse_f = inverse_f.subs(y, x)
     self.add_fun(inverse_f, domain, f_name, color)
     
 
