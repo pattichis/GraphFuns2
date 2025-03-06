@@ -408,6 +408,9 @@ class graph_funs:
         x_values = np.linspace(*domain) # Unpack the list of elements.
         for val in x_values:
           y_values.append(func_name.subs(x, val))
+        print(func_name)
+        print(x_values)
+        print(y_values)
 
         y_values = np.array(y_values, dtype=float)        
 
