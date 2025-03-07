@@ -510,6 +510,11 @@ class graph_funs:
     if (self.minX is not None):
       fig.update_xaxes(range=[self.minX, self.maxX])
       fig.update_yaxes(range=[self.minY, self.maxY])
+    
+    fig.update_layout(
+      xaxis=dict(scaleanchor="y"),  # Link x-axis and y-axis scales
+      yaxis=dict(scaleanchor="x")
+    )
 
     # Update the figure:
     fig.show()
