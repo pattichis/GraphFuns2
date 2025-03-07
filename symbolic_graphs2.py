@@ -117,6 +117,7 @@ class graph_funs:
 
     # Ok. We can add now:
     self.add_fun(inverse_f, domain, f_name, color)
+    return(inverse_f)
     
 
   def add_funs(self, fun_list, domain_list, fun_names_list=None, color=None):
