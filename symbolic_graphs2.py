@@ -91,9 +91,8 @@ class graph_funs:
       inverse_f = solve(y - f, x)[0]
       
       if w:  # Check if warnings were caught
-        print(f"Caught warning: {w[-1].message}")
-        print("Check your domain in add_inverse_fun().")
-        sys.exit()
+        print(f"Caught warning message in add_inverse_fun()")
+  
 
     print(inverse_f)
     inverse_f = inverse_f.subs(y, x)
