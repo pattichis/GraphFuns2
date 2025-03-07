@@ -89,6 +89,19 @@ class graph_funs:
     inverse_f = inverse_f.subs(y, x)
     print(inverse_f)
     print("exiting add_inverse_fun()")
+
+    # Convert symbolic to a NumPy array:
+    f = sp.lambdify(x, inverse_f, "numpy")
+    x_vals = np.linspace(*domain)
+    y_vals = f(x_vals)  # Evaluate the function at these points
+
+    # Check if we have any complex values:
+    if np.iscomplexobj(y_vals):  # Check if the array contains complex numbers
+      print("ERROR in add_inverse_function")
+      print("Check your domain!, domain=", domain)
+      raise ValueError("Fix your domain and rerun.")
+
+    # Ok. We can add now:
     self.add_fun(inverse_f, domain, f_name, color)
     
 
