@@ -16,9 +16,12 @@ class graph_funs:
   The class supports function manipulations and plots.
   """
 
-  def __init__(self):
+  def __init__(self, equal_axes=False):
     """ Setup the plot.
+    equal_axis: Set this to True to make x and y scales equal.
     """
+    self.equal_axes=equal_axes
+    
     # Create an empty function list
     self.functions_list  = []
     self.functions_names = []
@@ -510,11 +513,13 @@ class graph_funs:
     if (self.minX is not None):
       fig.update_xaxes(range=[self.minX, self.maxX])
       fig.update_yaxes(range=[self.minY, self.maxY])
-    
-    fig.update_layout(
-      xaxis=dict(scaleanchor="y"),  # Link x-axis and y-axis scales
-      yaxis=dict(scaleanchor="x")
-    )
+
+    # Use equal axes if required.
+    if (self.equal_axes):
+      fig.update_layout(
+        xaxis=dict(scaleanchor="y"),  # Link x-axis and y-axis scales
+        yaxis=dict(scaleanchor="x")
+      )
 
     # Update the figure:
     fig.show()
