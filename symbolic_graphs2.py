@@ -8,6 +8,8 @@ from PIL import Image
 
 import cv2
 import os
+import warnings
+import sys
 
 class graph_funs:
   """
@@ -84,16 +86,24 @@ class graph_funs:
     # Solve for x in terms of y (inverse function)
     print("entering add_inverse_fun()")
     print(f)
-    inverse_f = solve(y - f, x)[0]
+    with warnings.catch_warnings(record=True) as w:
+      warnings.simplefilter("always")  # Ensure all warnings are caught
+      inverse_f = solve(y - f, x)[0]
+      
+      if w:  # Check if warnings were caught
+        print(f"Caught warning: {w[-1].message}")
+        print("Check your domain in add_inverse_fun().")
+        sys.exit()
+
     print(inverse_f)
     inverse_f = inverse_f.subs(y, x)
     print(inverse_f)
     print("exiting add_inverse_fun()")
 
     # Convert symbolic to a NumPy array:
-    f = sp.lambdify(x, inverse_f, "numpy")
+    f2 = sp.lambdify(x, inverse_f, "numpy")
     x_vals = np.linspace(*domain)
-    y_vals = f(x_vals)  # Evaluate the function at these points
+    y_vals = f2(x_vals)  # Evaluate the function at these points
 
     # Check if we have any complex values:
     if np.iscomplexobj(y_vals):  # Check if the array contains complex numbers
