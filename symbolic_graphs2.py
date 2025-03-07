@@ -102,8 +102,14 @@ class graph_funs:
     # Convert symbolic to a NumPy array:
     f2 = sp.lambdify(x, inverse_f, "numpy")
     x_vals = np.linspace(*domain)
-    y_vals = f2(x_vals)  # Evaluate the function at these points
 
+    try:
+      y_vals = f2(x_vals)  # Evaluate the function at these points
+    except ZeroDivisionError:
+      print("ERROR: in add_inverse_fun()")
+      print("Check the domain!")
+      raise ValueError("Fix your domain and rerun.")
+    
     # Check if we have any complex values:
     if np.iscomplexobj(y_vals):  # Check if the array contains complex numbers
       print("ERROR in add_inverse_function")
