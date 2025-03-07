@@ -84,8 +84,8 @@ class graph_funs:
     x, y = symbols('x y')
     
     # Solve for x in terms of y (inverse function)
-    print("entering add_inverse_fun()")
-    print(f)
+    # print("entering add_inverse_fun()")
+    # print(f)
     with warnings.catch_warnings(record=True) as w:
       warnings.simplefilter("always")  # Ensure all warnings are caught
       inverse_f = solve(y - f, x)[0]
@@ -94,11 +94,10 @@ class graph_funs:
         print(f"Caught warning message in add_inverse_fun()")
   
 
-    print(inverse_f)
+    # print(inverse_f)
     inverse_f = inverse_f.subs(y, x)
-    print(inverse_f)
-    print("exiting add_inverse_fun()")
-
+    # print(inverse_f)
+    
     # Convert symbolic to a NumPy array:
     f2 = sp.lambdify(x, inverse_f, "numpy")
     x_vals = np.linspace(*domain)
