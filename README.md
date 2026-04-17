@@ -7,4 +7,10 @@ This repo provides functions for visualizing functions using plots and video ani
 
 [Fun project 1: Video animation of drawing a flower](https://github.com/pattichis/GraphSpeeds2/blob/main/Graphfuns_project.ipynb)
 
-[Homework functions: Plot functions, animate exponential plots, compare multiple lots, arithmetic series, geometric series, recursive functions](https://colab.research.google.com/github/pattichis/GraphFuns2/blob/main/Homework_funs.ipynb)
+[Homework functions](https://colab.research.google.com/github/pattichis/GraphFuns2/blob/main/Homework_funs.ipynb)
+* Plot functions
+* Animate exponential plots
+* Compare multiple plots
+* Arithmetic series
+* Geometric series
+* Recursive functions
