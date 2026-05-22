@@ -1,25 +1,26 @@
 # GraphFuns2
 This repo provides functions for visualizing functions using plots and video animations.
 
-[Lesson 1: An Introduction to Programming in Python](https://github.com/pattichis/GraphFuns2/blob/main/GraphFuns_lesson_1.ipynb)<br>
-[Alternative Link in Google Drive](https://colab.research.google.com/drive/1NLBXbcxSF7IVQgZpzHFOqDnacdMQg6HR?usp=sharing)
+[Lesson 1: An Introduction to Programming in Python (GitHub)](https://github.com/pattichis/GraphFuns2/blob/main/GraphFuns_lesson_1.ipynb)<br>
+[Lesson 1: An Introduction to Programming in Python  (Google Drive)](https://colab.research.google.com/drive/1NLBXbcxSF7IVQgZpzHFOqDnacdMQg6HR?usp=sharing)
 * Python using variables
 * Mathematical expressions
 * Lists
 * for loops
 * Tables
 
-[Lesson 2: Plotting functions and their transformations](https://github.com/pattichis/GraphFuns2/blob/main/GraphFuns_lesson_2_2025.ipynb)
+[Lesson 2: Plotting functions and their transformations (GitHub)](https://github.com/pattichis/GraphFuns2/blob/main/GraphFuns_lesson_2_2025.ipynb)<br>
+[Lesson 2: Plotting functions and their transformations (Google Drive)](https://colab.research.google.com/drive/1bR7VSyTT3nY8BaSM7M8cHFeqrNO447P9?usp=sharing)
 * Plotting functions
 * Plotting reflections of functions
 * Plotting translations of functions
 * Plotting dilations of functions
 
-[Fun project 1: Video animation of drawing a flower](https://colab.research.google.com/github.com/pattichis/GraphFuns2/blob/main/Graphfuns_project.ipynb)
+[Fun project 1: Video animation of drawing a flower](https://github.com/pattichis/GraphFuns2/blob/main/Graphfuns_project.ipynb)
 * Create video frames using transformations of a mother function
 * Create a video animation of drawing a flower
 
-[Homework functions](https://colab.research.google.com/github.com/pattichis/GraphFuns2/blob/main/Homework_funs.ipynb)
+[Homework functions](https://github.com/pattichis/GraphFuns2/blob/main/Homework_funs.ipynb)
 * Plot functions
 * Animate exponential plots
 * Compare multiple plots
@@ -27,6 +28,6 @@ This repo provides functions for visualizing functions using plots and video ani
 * Geometric series
 * Recursive functions
 
-[Fun project 2: Video animation of drawing a face](https://colab.research.google.com//github.com/pattichis/GraphFuns2/blob/main/Graphfuns_project2.ipynb)
+[Fun project 2: Video animation of drawing a face](https://github.com/pattichis/GraphFuns2/blob/main/Graphfuns_project2.ipynb)
 * Plot closed figure using f(x)=a*b**(x-h)+k for different values of a, b, h, k.
 * Create multiple plots for face activity
