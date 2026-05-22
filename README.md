@@ -1,7 +1,7 @@
 # GraphFuns2
 This repo provides functions for visualizing functions using plots and video animations.
 
-[Lesson 1: An Introduction to Programming in Python](https://colab.research.google.com/github.com/pattichis/GraphFuns2/blob/main/GraphFuns_lesson_1.ipynb)
+[Lesson 1: An Introduction to Programming in Python](https://github.com/pattichis/GraphFuns2/blob/main/GraphFuns_lesson_1.ipynb)
 * Python using variables
 * Mathematical expressions
 * Lists
