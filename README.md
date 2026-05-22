@@ -30,6 +30,7 @@ This repo provides functions for visualizing functions using plots and video ani
 * Geometric series
 * Recursive functions
 
-[Fun project 2: Video animation of drawing a face](https://github.com/pattichis/GraphFuns2/blob/main/Graphfuns_project2.ipynb)
+[Fun project 2: Video animation of drawing a face (GitHub)](https://github.com/pattichis/GraphFuns2/blob/main/Graphfuns_project2.ipynb)<br>
+[Fun project 2: Video animation of drawing a face (Google Drive)](https://colab.research.google.com/drive/1OO772j6UgYs2l-o1oWXG71lLo8Brs1XA?usp=sharing)
 * Plot closed figure using f(x)=a*b**(x-h)+k for different values of a, b, h, k.
 * Create multiple plots for face activity
