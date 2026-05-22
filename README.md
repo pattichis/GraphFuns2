@@ -9,20 +9,19 @@ This repo provides functions for visualizing functions using plots and video ani
 * for loops
 * Tables
 
-[Lesson 2: Plotting functions and their transformations (GitHub)](https://github.com/pattichis/GraphFuns2/blob/main/GraphFuns_lesson_2_2025.ipynb)<br>
-[Lesson 2: Plotting functions and their transformations (Google Drive)](https://colab.research.google.com/drive/1bR7VSyTT3nY8BaSM7M8cHFeqrNO447P9?usp=sharing)
+[Lesson 2: Plotting functions and their transformations (GitHub)](https://github.com/pattichis/GraphFuns2/blob/main/GraphFuns_lesson_2_2025.ipynb)[(Google Drive)](https://colab.research.google.com/drive/1bR7VSyTT3nY8BaSM7M8cHFeqrNO447P9?usp=sharing)
 * Plotting functions
 * Plotting reflections of functions
 * Plotting translations of functions
 * Plotting dilations of functions
 
-[Fun project 1: Video animation of drawing a flower (GitHub)](https://github.com/pattichis/GraphFuns2/blob/main/Graphfuns_project.ipynb)<br>
-[Fun project 1: Video animation of drawing a flower (Google Drive)](https://colab.research.google.com/drive/1oq37O6w2ce2584quPXdZtyIwjD2fzoa4?usp=sharing)
+[Fun project 1: Video animation of drawing a flower (GitHub)](https://github.com/pattichis/GraphFuns2/blob/main/Graphfuns_project.ipynb)
+[(Google Drive)](https://colab.research.google.com/drive/1oq37O6w2ce2584quPXdZtyIwjD2fzoa4?usp=sharing)
 * Create video frames using transformations of a mother function
 * Create a video animation of drawing a flower
 
-[Homework functions (GitHub)](https://github.com/pattichis/GraphFuns2/blob/main/Homework_funs.ipynb)<br>
-[Homework functions (Google Drive)](https://colab.research.google.com/drive/1voxqdIaLmYPqHsSuhzidIW3HJ3wbg8ID?usp=sharing)
+[Homework functions (GitHub)](https://github.com/pattichis/GraphFuns2/blob/main/Homework_funs.ipynb)
+[(Google Drive)](https://colab.research.google.com/drive/1voxqdIaLmYPqHsSuhzidIW3HJ3wbg8ID?usp=sharing)
 * Plot functions
 * Animate exponential plots
 * Compare multiple plots
@@ -31,11 +30,11 @@ This repo provides functions for visualizing functions using plots and video ani
 * Recursive functions
 
 [Fun project 2: Video animation of drawing a face (GitHub)](https://github.com/pattichis/GraphFuns2/blob/main/Graphfuns_project2.ipynb)<br>
-[Fun project 2: Video animation of drawing a face (Google Drive)](https://colab.research.google.com/drive/1OO772j6UgYs2l-o1oWXG71lLo8Brs1XA?usp=sharing)
+[(Google Drive)](https://colab.research.google.com/drive/1OO772j6UgYs2l-o1oWXG71lLo8Brs1XA?usp=sharing)
 * Plot closed figure using f(x)=a*b**(x-h)+k for different values of a, b, h, k.
 * Create multiple plots for face activity
 
 # Advisory Board Activities
-[Make Face Activity for Advisory Board (GitHub)](https://github.com/pattichis/GraphFuns2/blob/main/Make_face.ipynb)<br>
-[Make Face Activity for Advisory Board (Google Drive)](https://colab.research.google.com/drive/1mo9UAzj99AnKbU_00ZfXHS9x7-EXVySR?usp=sharing)
+[Make Face Activity for Advisory Board (GitHub)](https://github.com/pattichis/GraphFuns2/blob/main/Make_face.ipynb)
+[(Google Drive)](https://colab.research.google.com/drive/1mo9UAzj99AnKbU_00ZfXHS9x7-EXVySR?usp=sharing)
 * Simplified version of Fun project 2
