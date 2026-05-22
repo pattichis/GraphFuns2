@@ -2,7 +2,7 @@
 This repo provides functions for visualizing functions using plots and video animations.
 
 [Lesson 1: An Introduction to Programming in Python](https://github.com/pattichis/GraphFuns2/blob/main/GraphFuns_lesson_1.ipynb)<br>
-[Google Drive Link](https://colab.research.google.com/drive/1NLBXbcxSF7IVQgZpzHFOqDnacdMQg6HR?usp=sharing)
+[Alternative Link in Google Drive](https://colab.research.google.com/drive/1NLBXbcxSF7IVQgZpzHFOqDnacdMQg6HR?usp=sharing)
 * Python using variables
 * Mathematical expressions
 * Lists
