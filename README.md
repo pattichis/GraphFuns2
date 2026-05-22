@@ -8,7 +8,7 @@ This repo provides functions for visualizing functions using plots and video ani
 * for loops
 * Tables
 
-[Lesson 2: Plotting functions and their transformations](https://colab.research.google.com/github.com/pattichis/GraphFuns2/blob/main/GraphFuns_lesson_2_2025.ipynb)
+[Lesson 2: Plotting functions and their transformations](https://github.com/pattichis/GraphFuns2/blob/main/GraphFuns_lesson_2_2025.ipynb)
 * Plotting functions
 * Plotting reflections of functions
 * Plotting translations of functions
