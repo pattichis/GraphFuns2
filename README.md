@@ -1,4 +1,4 @@
-# GraphFuns2
+# GraphFuns2: Classroom lessons
 This repo provides functions for visualizing functions using plots and video animations.
 
 [Lesson 1: An Introduction to Programming in Python (GitHub)](https://github.com/pattichis/GraphFuns2/blob/main/GraphFuns_lesson_1.ipynb)<br>
@@ -35,6 +35,7 @@ This repo provides functions for visualizing functions using plots and video ani
 * Plot closed figure using f(x)=a*b**(x-h)+k for different values of a, b, h, k.
 * Create multiple plots for face activity
 
+# Advisory Board Activities
 [Make Face Activity for Advisory Board (GitHub)](https://github.com/pattichis/GraphFuns2/blob/main/Make_face.ipynb)<br>
 [Make Face Activity for Advisory Board (Google Drive)](https://colab.research.google.com/drive/1mo9UAzj99AnKbU_00ZfXHS9x7-EXVySR?usp=sharing)
 * Simplified version of Fun project 2
