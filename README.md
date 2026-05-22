@@ -16,12 +16,13 @@ This repo provides functions for visualizing functions using plots and video ani
 * Plotting translations of functions
 * Plotting dilations of functions
 
-[Fun project 1: Video animation of drawing a flower (GitHub)](https://github.com/pattichis/GraphFuns2/blob/main/Graphfuns_project.ipynb)
+[Fun project 1: Video animation of drawing a flower (GitHub)](https://github.com/pattichis/GraphFuns2/blob/main/Graphfuns_project.ipynb)<br>
 [Fun project 1: Video animation of drawing a flower (Google Drive)](https://colab.research.google.com/drive/1oq37O6w2ce2584quPXdZtyIwjD2fzoa4?usp=sharing)
 * Create video frames using transformations of a mother function
 * Create a video animation of drawing a flower
 
-[Homework functions](https://github.com/pattichis/GraphFuns2/blob/main/Homework_funs.ipynb)
+[Homework functions (GitHub)](https://github.com/pattichis/GraphFuns2/blob/main/Homework_funs.ipynb)<br>
+[Homework functions (Google Drive)](https://colab.research.google.com/drive/1voxqdIaLmYPqHsSuhzidIW3HJ3wbg8ID?usp=sharing)
 * Plot functions
 * Animate exponential plots
 * Compare multiple plots
