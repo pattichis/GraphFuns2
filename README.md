@@ -31,8 +31,9 @@ This repo provides functions for visualizing functions using plots and video ani
 
 [Fun project 2: Video animation of drawing a face (GitHub)](https://github.com/pattichis/GraphFuns2/blob/main/Graphfuns_project2.ipynb)
 [(Google Drive)](https://colab.research.google.com/drive/1OO772j6UgYs2l-o1oWXG71lLo8Brs1XA?usp=sharing)
-* Plot closed figure using f(x)=a*b**(x-h)+k for different values of a, b, h, k.
-* Create multiple plots for face activity
+* Provides a closed figure using transformations of 
+  $$ f(x) = a \cdot b^{x-h} +k $$
+* The project asks students to create a face video animation using the closed figure as the building block.
 
 # Advisory Board Activities
 [Make Face Activity for Advisory Board (GitHub)](https://github.com/pattichis/GraphFuns2/blob/main/Make_face.ipynb)
