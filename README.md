@@ -30,7 +30,7 @@ This repo provides functions for visualizing functions using plots and video ani
 * Recursive functions
 
 [Fun project 2: Video animation of drawing a face (GitHub)](https://github.com/pattichis/GraphFuns2/blob/main/Graphfuns_project2.ipynb)
-[(Google Drive)](https://colab.research.google.com/drive/1OO772j6UgYs2l-o1oWXG71lLo8Brs1XA?usp=sharing)
+[(Google Drive)](https://colab.research.google.com/drive/1ZAE3X_JQTB3TQtL8NhpFX5NevV-dmbN_?usp=sharing)
 * Provides a closed figure using transformations of 
 
   $$ f(x) = a \cdot b^{x-h} +k $$
@@ -40,4 +40,4 @@ This repo provides functions for visualizing functions using plots and video ani
 # Advisory Board Activities
 [Make Face Activity for Advisory Board (GitHub)](https://github.com/pattichis/GraphFuns2/blob/main/Make_face.ipynb)
 [(Google Drive)](https://colab.research.google.com/drive/1u1P63c135u6b4AF3o7Ajg1GzX5-gJZGx?usp=sharing)
-* Simplified version of Fun project 2
+* Simplified version of the activity to create a face
