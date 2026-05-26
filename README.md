@@ -40,5 +40,5 @@ This repo provides functions for visualizing functions using plots and video ani
 # Project Activities
 
 [Make Face Activity for Advisory Board (GitHub)](https://github.com/pattichis/GraphFuns2/blob/main/Make_face.ipynb)
-[(Google Drive)](https://colab.research.google.com/drive/1u1P63c135u6b4AF3o7Ajg1GzX5-gJZGx?usp=sharing)
+[(Google Drive)](https://colab.research.google.com/drive/1vCsq922U7Bg39g2LqN7f9XE9dXmFZtd1?usp=sharing)
 * Simplified version of the activity to create a face
