@@ -38,9 +38,6 @@ This repo provides functions for visualizing functions using plots and video ani
 * The project asks students to create a face video animation using the closed figure as the building block.
 
 # Project Activities
-[Fun project 1: Video animation of drawing a flower (GitHub)](https://github.com/pattichis/GraphFuns2/blob/main/Make_flower.ipynb)
-[(Google Drive)](https://colab.research.google.com/drive/1JAmZtk5AzNfXuGZ-Kmb7YIZ9dDDqsS9e?usp=sharing)
-* Create a video animation of drawing a flower
 
 [Make Face Activity for Advisory Board (GitHub)](https://github.com/pattichis/GraphFuns2/blob/main/Make_face.ipynb)
 [(Google Drive)](https://colab.research.google.com/drive/1u1P63c135u6b4AF3o7Ajg1GzX5-gJZGx?usp=sharing)
