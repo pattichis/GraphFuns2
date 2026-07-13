@@ -1,7 +1,7 @@
 # GraphFuns2: Classroom lessons
 This repo provides functions for visualizing functions using plots and video animations.
 
-[Lesson 0: Interactive exponential plots in Desmos](https://www.desmos.com/calculator/3vjrwdb4wu)
+[Lesson 0: Interactive exponential plots in Desmos](https://www.desmos.com/calculator/jarsfn73zb)
 Click on the link to visualize exponential plots in Desmos.
 
 [Lesson 1: An Introduction to Programming in Python (GitHub)](https://github.com/pattichis/GraphFuns2/blob/main/GraphFuns_lesson_1.ipynb)
