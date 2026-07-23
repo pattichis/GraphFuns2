@@ -1,6 +1,12 @@
 # GraphFuns2: Classroom lessons
 This repo provides functions for visualizing functions using plots and video animations.
 
+> **Reveal Algebra 1, volume 2, (interactive student edition)**  
+> *McGraw Hill*, 2020.
+> **Chapter 9: "Exponential Functions" (pp. 487-542). **
+> ISBN: 978-0-07-899743-3.
+
+
 [Lesson 0: Interactive exponential plots in Desmos](https://www.desmos.com/calculator/jarsfn73zb)
 
 Click on the link to visualize exponential plots in Desmos.
