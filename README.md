@@ -5,6 +5,10 @@ This repo provides functions for visualizing functions using plots and video ani
 > *McGraw Hill*, 2020.
 > **Chapter 9:** "Exponential Functions" (pp. 487-542). 
 > ISBN: 978-0-07-899743-3.
+>  * **Lesson 9-1:** "Exponential Functions"
+>  * **Lesson 9-2:** "Transformations of Exponential Functions"
+>  * **Lesson 9-3:** "A"
+
 
 
 [Lesson 0: Interactive exponential plots in Desmos](https://www.desmos.com/calculator/jarsfn73zb)
@@ -20,7 +24,7 @@ Click on the link to visualize exponential plots in Desmos.
 * Tables
 
 [Lesson 2: Plotting functions and their transformations (GitHub)](https://github.com/pattichis/GraphFuns2/blob/main/GraphFuns_lesson_2_2025.ipynb)[(Google Drive)](https://colab.research.google.com/drive/1ZhILh3Giyk1G4Dx0laAehJfLATLIlsGb?usp=sharing)
-* Plotting functions
+* Plotting functions, (see Lesson 9-1).
 * Plotting reflections of functions
 * Plotting translations of functions
 * Plotting dilations of functions
