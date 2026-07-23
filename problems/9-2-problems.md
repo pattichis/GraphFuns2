@@ -56,4 +56,6 @@ Describe and plot the reflection of $f(x)=2^x$ across the $x$-axis.
 Describe and plot the reflection of $f(x)=(0.5)^x$ across the $y$-axis.
 
 ##  Multiple transformations Problems.
-Describe how the graph of $g(x)= -\frac{1}{2} (3)^{x-2} - 1$ is related to graph of the parent function $f(x)=3^x$.
+Describe how the graph of 
+   $$g(x)= -\frac{1}{2} (3)^{x-2} - 1$$ 
+is related to the graph of the parent function $f(x)=3^x$.
