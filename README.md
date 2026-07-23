@@ -3,7 +3,7 @@ This repo provides functions for visualizing functions using plots and video ani
 
 > **Reveal Algebra 1, volume 2, (interactive student edition)**  
 > *McGraw Hill*, 2020.
-> **Chapter 9: "Exponential Functions" (pp. 487-542). **
+> **Chapter 9:** "Exponential Functions" (pp. 487-542). 
 > ISBN: 978-0-07-899743-3.
 
 
