@@ -27,7 +27,7 @@
 
 ### Example Problems:
 Describe and plot $g(x)=a \cdot b^x$ as it relates to the mother function $f(x)=b^x$ given below:
-1. $g(x)= 4 (\frac{2}{3})^x$. <br>
+1. $g(x)= 4 \left (\frac{2}{3} \right)^x$. <br>
 2. $g(x)= 0.5 (4)^x$. <br>
 
 ### Horizontal Dilations
