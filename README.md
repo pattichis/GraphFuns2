@@ -15,8 +15,8 @@ This repo provides functions for visualizing functions using plots and video ani
 
 
 [Lesson 0: Interactive exponential plots in Desmos](https://www.desmos.com/calculator/jarsfn73zb)
-
-Click on the link to visualize exponential plots in Desmos.
+* **Lesson 9-1:** "Exponential Functions"
+  * Click on the link to visualize exponential plots in Desmos.
 
 [Lesson 1: An Introduction to Programming in Python (GitHub)](https://github.com/pattichis/GraphFuns2/blob/main/GraphFuns_lesson_1.ipynb)
 [(Google Drive)](https://colab.research.google.com/drive/1NLBXbcxSF7IVQgZpzHFOqDnacdMQg6HR?usp=sharing)
@@ -36,8 +36,9 @@ Click on the link to visualize exponential plots in Desmos.
 
 [Fun project 1: Video animation of drawing a flower (GitHub)](https://github.com/pattichis/GraphFuns2/blob/main/Make_flower.ipynb)
 [(Google Drive)](https://colab.research.google.com/drive/1JAmZtk5AzNfXuGZ-Kmb7YIZ9dDDqsS9e?usp=sharing)
-* Create video frames using transformations of a mother function
-* Create a video animation of drawing a flower
+* **Lesson 9-2:** "Transformations of Exponential Functions"
+  * Create video frames using transformations of a mother function
+  * Create a video animation of drawing a flower
 
 [Homework functions (GitHub)](https://github.com/pattichis/GraphFuns2/blob/main/Homework_funs.ipynb)
 [(Google Drive)](https://colab.research.google.com/drive/1voxqdIaLmYPqHsSuhzidIW3HJ3wbg8ID?usp=sharing)
