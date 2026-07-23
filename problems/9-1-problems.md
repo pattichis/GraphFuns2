@@ -2,12 +2,12 @@
 
 
 ## 1. Exponential growth functions
-> ** General form:** $f(x) = a \cdot b^x$, \quad a>0, b>1$.
-> ** Domain: ** all real numbers.
-> ** Range:  ** positive real numbers.
-> ** Intercepts: ** one y-intercept, no x-intercepts.
-> ** As x increases: ** $f(x)$ increases.
-> ** As x decreases: ** $f(x)$ approaches zero.
+> * ** General form:** $f(x) = a \cdot b^x$, \quad a>0, b>1$.
+> * ** Domain: ** all real numbers.
+> * ** Range:  ** positive real numbers.
+> * ** Intercepts: ** one y-intercept, no x-intercepts.
+> * ** As x increases: ** $f(x)$ increases.
+> * ** As x decreases: ** $f(x)$ approaches zero.
 
 ### Problem Statement
 Prove that for any positive integer $n$, the sum of the first $n$ odd integers is $n^2$.
