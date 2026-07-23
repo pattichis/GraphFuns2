@@ -21,6 +21,3 @@ $$ y = 0.005 \cdot (2)^x $$
 
 ### Example: Plot the following function and find its y-intercept:
 $$ y = 160 \cdot (0.5)^{x/5} $$
-
-
-
