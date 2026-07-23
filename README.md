@@ -7,8 +7,11 @@ This repo provides functions for visualizing functions using plots and video ani
 > ISBN: 978-0-07-899743-3.
 >  * **Lesson 9-1:** "Exponential Functions"
 >  * **Lesson 9-2:** "Transformations of Exponential Functions"
->  * **Lesson 9-3:** "A"
->   **Lesson**
+>  * **Lesson 9-3:** "Writing Exponential Functions"
+>  * **Lesson 9-4:** "Transforming Exponential Expressions"
+>  * **Lesson 9-5:** "Geometric Sequences"
+>  * **Lesson 9-6:** "Recursuve Formulas"
+>  * "Module 9 Review"
 
 
 [Lesson 0: Interactive exponential plots in Desmos](https://www.desmos.com/calculator/jarsfn73zb)
@@ -24,10 +27,12 @@ Click on the link to visualize exponential plots in Desmos.
 * Tables
 
 [Lesson 2: Plotting functions and their transformations (GitHub)](https://github.com/pattichis/GraphFuns2/blob/main/GraphFuns_lesson_2_2025.ipynb)[(Google Drive)](https://colab.research.google.com/drive/1ZhILh3Giyk1G4Dx0laAehJfLATLIlsGb?usp=sharing)
-* Plotting functions, (see Lesson 9-1).
-* Plotting reflections of functions
-* Plotting translations of functions
-* Plotting dilations of functions
+* **Lesson 9-1:** "Exponential Functions"
+  * Plotting functions.
+* **Lesson 9-2:** "Transformations of Exponential Functions"
+  * Plotting reflections of functions
+  * Plotting translations of functions
+  * Plotting dilations of functions
 
 [Fun project 1: Video animation of drawing a flower (GitHub)](https://github.com/pattichis/GraphFuns2/blob/main/Make_flower.ipynb)
 [(Google Drive)](https://colab.research.google.com/drive/1JAmZtk5AzNfXuGZ-Kmb7YIZ9dDDqsS9e?usp=sharing)
