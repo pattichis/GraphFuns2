@@ -60,8 +60,10 @@ Typical problems include:
 [Fun project 2: Video animation of drawing a face (GitHub)](https://github.com/pattichis/GraphFuns2/blob/main/Graphfuns_project2.ipynb)
 [(Google Drive)](https://colab.research.google.com/drive/1ZAE3X_JQTB3TQtL8NhpFX5NevV-dmbN_?usp=sharing)
 * **Lesson 9-2:** "Transformations of Exponential Functions"
-  * Provides a closed figure using transformations of 
-  $$ f(x) = a \cdot b^{x-h} +k $$
+  * Provides a closed figure using transformations of
+$$
+f(x) = a \cdot b^{x-h} +k
+$$
   * The project asks students to create a face video animation using the closed figure as the building block.
 
 # Project Activities
