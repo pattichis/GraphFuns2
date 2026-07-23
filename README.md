@@ -42,12 +42,16 @@ This repo provides functions for visualizing functions using plots and video ani
 
 [Homework functions (GitHub)](https://github.com/pattichis/GraphFuns2/blob/main/Homework_funs.ipynb)
 [(Google Drive)](https://colab.research.google.com/drive/1voxqdIaLmYPqHsSuhzidIW3HJ3wbg8ID?usp=sharing)
-* Plot functions
-* Animate exponential plots
-* Compare multiple plots
+* **Lesson 9-1:** "Exponential Functions"
+  * Plot functions
+  * Animate exponential plots
+* **Lesson 9-2:** "Transformations of Exponential Functions"
+  * Compare multiple plots
 * Arithmetic series
-* Geometric series
-* Recursive functions
+* **Lesson 9-5:** "Geometric Sequences"
+  * Geometric series
+* **Lesson 9-6:** "Recursuve Formulas"
+  * Recursive functions
 
 [Fun project 2: Video animation of drawing a face (GitHub)](https://github.com/pattichis/GraphFuns2/blob/main/Graphfuns_project2.ipynb)
 [(Google Drive)](https://colab.research.google.com/drive/1ZAE3X_JQTB3TQtL8NhpFX5NevV-dmbN_?usp=sharing)
