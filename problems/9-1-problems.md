@@ -2,7 +2,7 @@
 
 
 ## 1. Exponential growth functions
-* ** General form: ** $f(x) = a \cdot b^x$, a>0, b>1$.
+* ** General form: ** $f(x) = a \cdot b^x, \quad a>0, b>1$.
 * ** Domain: ** all real numbers.
 * ** Range:  ** positive real numbers.
 * ** Intercepts: ** one y-intercept, no x-intercepts.
