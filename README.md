@@ -47,7 +47,8 @@ This repo provides functions for visualizing functions using plots and video ani
   * Animate exponential plots
 * **Lesson 9-2:** "Transformations of Exponential Functions"
   * Compare multiple plots
-* Arithmetic series
+* **Lesson 9-6:** "Recursuve Formulas"
+  * Arithmetic series
 * **Lesson 9-5:** "Geometric Sequences"
   * Geometric series
 * **Lesson 9-6:** "Recursuve Formulas"
