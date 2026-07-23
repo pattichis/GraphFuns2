@@ -39,3 +39,21 @@ Describe and plot $g(x)=a \cdot b^x$ as it relates to the mother function $f(x)=
 Describe and plot $g(x)=a \cdot b^x$ as it relates to the mother function $f(x)=b^x$ given below:
 1. $g(x)= 4^{\frac{2}{3} x}$.<br>
 2. $g(x)= 3^{\frac{5}{2} x}$.<br>
+
+## Reflections
+### Reflections across the $x$-axis.
+* $-f(x)$ is the reflection of $f(x)$ across the $x$-axis.<br>
+* Every $y$-coordinate of $-f(x)$ is the corresponding $y$-coordinate of $f(x)$ multiplied by $-1$.
+
+### Example problem:
+Describe and plot the reflection of $f(x)=2^x$ across the $x$-axis.
+
+### Reflections across the $y$-axis.
+* $f(-x)$ is the reflection of $f(x)=b^x$ across the $y$-axis.<br>
+* The $x$-coordinate of $f(-x)$ is the corresponding $x$-coordinate of $f(x)$ multiplied by $-1$.
+
+### Example problem:
+Describe and plot the reflection of $f(x)=(0.5)^x$ across the $y$-axis.
+
+##  Multiple transformations Problems.
+Describe how the graph of $g(x)= -\frac{1}{2} (3)^{x-2} - 1$ is related to graph of the parent function $f(x)=3^x$.
