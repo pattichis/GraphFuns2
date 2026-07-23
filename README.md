@@ -1,17 +1,20 @@
 # GraphFuns2: Classroom lessons
 This repo provides functions for visualizing functions using plots and video animations.
 
+The exercises are taken from:
 > **Reveal Algebra 1, volume 2, (interactive student edition)**  
 > **Chapter 9:** "Exponential Functions" (pp. 487-542). 
 > *McGraw Hill*, 2020.
 > ISBN: 978-0-07-899743-3.
->  * **Lesson 9-1:** "Exponential Functions"
->  * **Lesson 9-2:** "Transformations of Exponential Functions"
->  * **Lesson 9-3:** "Writing Exponential Functions"
->  * **Lesson 9-4:** "Transforming Exponential Expressions"
->  * **Lesson 9-5:** "Geometric Sequences"
->  * **Lesson 9-6:** "Recursuve Formulas"
->  * "Module 9 Review"
+
+Typical problems include:
+* **Lesson 9-1:** "Exponential Functions", [9-1: Math Problems](https://github.com/pattichis/GraphFuns2/blob/main/problems/9-1-problems.md)
+* **Lesson 9-2:** "Transformations of Exponential Functions"
+* **Lesson 9-3:** "Writing Exponential Functions"
+* **Lesson 9-4:** "Transforming Exponential Expressions"
+* **Lesson 9-5:** "Geometric Sequences"
+* **Lesson 9-6:** "Recursuve Formulas"
+* "Module 9 Review"
 
 
 [Lesson 0: Interactive exponential plots in Desmos](https://www.desmos.com/calculator/jarsfn73zb)
