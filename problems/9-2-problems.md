@@ -11,10 +11,31 @@
 2. Translate $(0.5)^x$ down by 2 units.<br>
 
 ### Horizontal translations of exponential functions
-* $g(x)=b^{x-h}$ represents the graph of $f(x)=b^$ translated horizontally.
+* $g(x)=b^{x-h}$ represents the graph of $f(x)=b^x$ translated horizontally.
 * If $h>0$, the graph of $f(x)$ is translated $h$ units to the right.
 * If $h<0$, the graph of $f(x)$ is translated $h$ units to the left.
 
 ### Example Problems:
 1. Translate $5^x$ to the right by 2 units.<br>
 2. Translate $(0.1)^x$ to the left by 5 units.<br>
+
+## Dilations of Exponential Functions
+### Vertical Dilations
+* $g(x)= a \cdot b^x$ is the graph of $f(x)=b^x$ stretched or compressed vertical by a factor of $|a|$.
+* if $|a|>1$, the graph of $f(x)$ is stretched vertically away from the $x$-axis.
+* if $|a|<1$, the graph of $f(x)$ is compressed vertically towards the $x$-axis.
+
+### Example Problems:
+Describe and plot $g(x)=a \cdot b^x$ as it relates to the mother function $f(x)=b^x$ given below:
+1. $g(x)= 4 (\frac{2}{3})^x$. <br>
+2. $g(x)= 0.5 (4)^x$. <br>
+
+### Horizontal Dilations
+* $g(x)= b^{a x}$ is the graph of $f(x)=b^x$ stretched or compressed horizontally by a factor of $1/|a|$.
+* if $|a|>1$, the graph of $f(x)$ is compressed horizontally towards the $y$-axis.
+* if $|a|<1$, the graph of $f(x)$ is stretched horizontally away from the $y$-axis.
+
+### Example Problems:
+Describe and plot $g(x)=a \cdot b^x$ as it relates to the mother function $f(x)=b^x$ given below:
+1. $g(x)= 4^{\frac{2}{3} x}$.<br>
+2. $g(x)= 3^{\frac{5}{2} x}$.<br>
