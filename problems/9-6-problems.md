@@ -5,7 +5,7 @@
 * Generate terms and verify that a sequence is arithmetic by computer.
 
 ### Example 1: Determine $a_2, a_3, a_4, a_5$ for the following case:
-$$a_1=7 \quad\text{and}\quad, a_n=a_{n-1} - 9$$
+$$a_1=7 \quad\text{and}\quad a_n=a_{n-1} - 9$$<br>
 Verify using X.1 from `Homework_funs`.
 
 ### Example 2: Is the following sequence $1, 2, 3, 5$ an arithmetic sequence? Discuss.
