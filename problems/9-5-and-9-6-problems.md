@@ -5,8 +5,26 @@ A geometric sequence is a pattern of numbers that begins with a nonzero term
 and each term after is found by multiplying the previous term by a nonzero constant $r$. 
 The constant $r$ is called the **common ratio**.
 
+Example from the definition:  
 For $r=3$, starting from $2$, we have the following geometric sequence:<br>
-Example:  $2, 2\cdot 3= 6, 6 \cdot 3=18, 18 \cdot 3 = 54, \cdots$.<br>
+First term is $2$.<br>
+Second term is $2\cdot 3=6$.<br>
+Third term is $6\cdot 3=18$.<br>
+
+### Example 9-5.1: Verify geometric sequence (Example 1 from section 9.5 of the book).
+Is $-432, 144, -48, 16$ a geometric sequence?<br>
+If it is a geometric sequence, determine the **common ratio**.<br>
+
+Verify your answer using X.4 from [Homework_funs](https://colab.research.google.com/drive/1voxqdIaLmYPqHsSuhzidIW3HJ3wbg8ID?usp=sharing).
+
+### Example 9-5.2: Find terms of a geometric sequence (Example 3.a. from section 9.5 of the book).
+Find the next three terms in $64, 16, 4, 1$.<br>
+Step 1. Find the common ratio.<br>
+$\frac{16}{64}$.<br>
+Step 2. Multiply by the common ratio.<br>
+Verify your answer using X.4 from [Homework_funs](https://colab.research.google.com/drive/1voxqdIaLmYPqHsSuhzidIW3HJ3wbg8ID?usp=sharing).
+
+
 
 
 # Lesson 9-6: Recursive Formulas
@@ -57,6 +75,7 @@ Plot the sequence.<br>
 If it is a geometric sequence, determine $a_1$ and the recursive formula.<br>
 
 Verify your answer using X.4 from [Homework_funs](https://colab.research.google.com/drive/1voxqdIaLmYPqHsSuhzidIW3HJ3wbg8ID?usp=sharing).
+
 
 ### Example 2.3: Generate the n-th term of an arithmetic sequence.
 Compute $a_100$ for $a_n = 3 \cdot 12^{n-1}$.
