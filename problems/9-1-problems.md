@@ -11,6 +11,8 @@
 ### Example: Plot the following function and find its y-intercept:
 $$ y = 0.005 \cdot (2)^x $$
 
+Verify your answer using **Plot any function** section from [Homework_funs](https://colab.research.google.com/drive/1voxqdIaLmYPqHsSuhzidIW3HJ3wbg8ID?usp=sharing).<br>
+
 ## 2. Exponential decay functions
 * General form: $f(x) = a \cdot b^x, \quad a>0, 0<b<1$.
 * Domain: all real numbers.
@@ -21,3 +23,6 @@ $$ y = 0.005 \cdot (2)^x $$
 
 ### Example: Plot the following function and find its y-intercept:
 $$ y = 160 \cdot (0.5)^{x/5} $$
+
+
+Verify your answer using **Plot any function** section from [Homework_funs](https://colab.research.google.com/drive/1voxqdIaLmYPqHsSuhzidIW3HJ3wbg8ID?usp=sharing).<br>
