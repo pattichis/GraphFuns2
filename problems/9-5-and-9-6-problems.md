@@ -11,6 +11,11 @@ First term is $2$.<br>
 Second term is $2\cdot 3=6$.<br>
 Third term is $6\cdot 3=18$.<br>
 
+Geometric sequences are exponential functions.<br>
+Let $n$ be a positive integer.<br>
+Let the first term be $a_1$, the n-th term be $a_n$, and the common ratio be $r \not= 0$.<br>
+The $n$-th term is given by: $\quad a_n=a_1 \cdot r^{n-1}$.
+
 ### Example 9-5.1: Verify geometric sequence (Example 1 from section 9.5 of the book).
 Is $\quad -432, 144, -48, 16 \quad$ a geometric sequence?<br>
 If it is a geometric sequence, determine the **common ratio**.<br>
