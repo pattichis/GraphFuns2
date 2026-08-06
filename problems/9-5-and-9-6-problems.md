@@ -20,14 +20,14 @@ Verify your answer using X.4 from [Homework_funs](https://colab.research.google.
 ### Example 9-5.2: Find terms of a geometric sequence (Example 3.a. from section 9.5 of the book).
 Find the next three terms in $64, 16, 4, 1$.<br>
 Step 1. Find the common ratio.<br>
-$\frac{16}{64} = ___, \frac{4}{16} = ___, \frac{1}{4} = ___$.<br>
+$\frac{16}{64} = ?, \frac{4}{16} = ?, \frac{1}{4} = ?$.<br>
 The common ratio is $r=?$.<br>
 
 Step 2. Multiply by the common ratio.<br>
-$1 \cdot \frac{1}{4} = ___, 
- \frac{1}{4}  \cdot \frac{1}{4} = ___, 
- \frac{1}{16} \cdot \frac{1}{4} = ___$.<br>
-The next three terms are $____$.<br>
+$1 \cdot \frac{1}{4} = ?, 
+ \frac{1}{4}  \cdot \frac{1}{4} = ?, 
+ \frac{1}{16} \cdot \frac{1}{4} = ?$.<br>
+The next three terms are $?, ?, ?$.<br>
 
 Verify your answer using X.4 from [Homework_funs](https://colab.research.google.com/drive/1voxqdIaLmYPqHsSuhzidIW3HJ3wbg8ID?usp=sharing).
 
