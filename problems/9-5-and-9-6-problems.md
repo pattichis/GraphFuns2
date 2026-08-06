@@ -87,12 +87,13 @@ Verify your answer using X.4 from [Homework_funs](https://colab.research.google.
 
 
 ### Example 9-6.5: Generate the n-th term of an arithmetic sequence.
-Compute $a_100$ for $a_n = 3 \cdot 12^{n-1}$.
+Compute $a_1=2$ for $a_n = 3 \cdot 12^{n-1}$.
 
 Verify your answer using X.8 from [Homework_funs](https://colab.research.google.com/drive/1voxqdIaLmYPqHsSuhzidIW3HJ3wbg8ID?usp=sharing).<br>
 
 ## Recursive formula for more general problems
 * Consider the more general form: $\quad a_n = r\cdot a_{n-1} + d$.
+* Apply the more general form to generate terms.
 
 ### Example 9-6.6: General formula for geometric sequence.
 Let $r=2$, $d=5$, $a_1=3$.<br>
