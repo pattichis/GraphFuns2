@@ -5,8 +5,8 @@ A geometric sequence is a pattern of numbers that begins with a nonzero term
 and each term after is found by multiplying the previous term by a nonzero constant $r$. 
 The constant $r$ is called the **common ratio**.
 
-For $r=3$, starting from $2$, we have the following geometric sequence:
-  $$ 2, 2\cdot 3= 6, 6 \cdot 3=18, 18 \cdot 3 = 54, \cdots. $$
+For $r=3$, starting from $2$, we have the following geometric sequence:<br>
+  $ 2, 2\cdot 3= 6, 6 \cdot 3=18, 18 \cdot 3 = 54, \cdots. $
 
 
 # Lesson 9-6: Recursive Formulas
