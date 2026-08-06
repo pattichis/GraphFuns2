@@ -7,7 +7,7 @@ The exercises are taken from:
 > *McGraw Hill*, 2020.
 > ISBN: 978-0-07-899743-3.
 
-# Suggested curriculum:
+# Suggested curriculum
 The suggested curriculum is to introduce Python prior to using the integrated problems.
 The curriculum is broken into three sections: (i) Introduction to Python and computational methods, (ii) Integrated Problems, and (iii) Projects.
 
@@ -25,7 +25,17 @@ The curriculum is broken into three sections: (i) Introduction to Python and com
 * **Problems for book lesson 9-6:** [Recursuve Formulas](https://github.com/pattichis/GraphFuns2/blob/main/problems/9-6-problems.md)
 * "Module 9 Review"
 
+## Part 3: Fun Projects
 
+The following lesson can be used after covering section 9-2 or 9-4 of the book:<br>
+* [Fun project 1: Video animation of drawing a flower (GitHub)](https://github.com/pattichis/GraphFuns2/blob/main/Make_flower.ipynb)
+[(Google Drive)](https://colab.research.google.com/drive/1JAmZtk5AzNfXuGZ-Kmb7YIZ9dDDqsS9e?usp=sharing)
+* [Fun project 2: Video animation for drawing a face (GitHub)](https://github.com/pattichis/GraphFuns2/blob/main/Graphfuns_project2.ipynb)
+[(Google Drive)](https://colab.research.google.com/drive/1ZAE3X_JQTB3TQtL8NhpFX5NevV-dmbN_?usp=sharing)
+* [Simplified fun project 2: Simplified video animation for drawing a face (GitHub)](https://github.com/pattichis/GraphFuns2/blob/main/Make_face.ipynb)
+[(Google Drive)](https://colab.research.google.com/drive/1vCsq922U7Bg39g2LqN7f9XE9dXmFZtd1?usp=sharing)
+
+# List of Python Notebooks with related material
 [Lesson 1: An Introduction to Programming in Python (GitHub)](https://github.com/pattichis/GraphFuns2/blob/main/GraphFuns_lesson_1.ipynb)
 [(Google Drive)](https://colab.research.google.com/drive/1NLBXbcxSF7IVQgZpzHFOqDnacdMQg6HR?usp=sharing)
 * Python using variables
@@ -62,14 +72,12 @@ The curriculum is broken into three sections: (i) Introduction to Python and com
 * **Lesson 9-6:** "Recursuve Formulas"
   * Recursive functions
 
-[Fun project 2: Video animation of drawing a face (GitHub)](https://github.com/pattichis/GraphFuns2/blob/main/Graphfuns_project2.ipynb)
+[Fun project 2: Video animation for drawing a face (GitHub)](https://github.com/pattichis/GraphFuns2/blob/main/Graphfuns_project2.ipynb)
 [(Google Drive)](https://colab.research.google.com/drive/1ZAE3X_JQTB3TQtL8NhpFX5NevV-dmbN_?usp=sharing)
 * **Lesson 9-2:** "Transformations of Exponential Functions"
   * Provides a closed figure using transformations of $f(x) = a \cdot b^{x-h} +k$
   * The project asks students to create a face video animation using the closed figure as the building block.
 
-# Project Activities
-
-[Make Face Activity for Advisory Board (GitHub)](https://github.com/pattichis/GraphFuns2/blob/main/Make_face.ipynb)
+[Simplified fun project 2: Simplified video animation for drawing a face (GitHub)](https://github.com/pattichis/GraphFuns2/blob/main/Make_face.ipynb)
 [(Google Drive)](https://colab.research.google.com/drive/1vCsq922U7Bg39g2LqN7f9XE9dXmFZtd1?usp=sharing)
 * Simplified version of the activity to create a face
