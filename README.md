@@ -7,7 +7,16 @@ The exercises are taken from:
 > *McGraw Hill*, 2020.
 > ISBN: 978-0-07-899743-3.
 
-Integrated problems that combine Python with Math exercises include:
+# Suggested curriculum:
+The suggested curriculum is to introduce Python prior to using the integrated problems.
+The curriculum is broken into three sections: (i) Introduction to Python and computational methods, (ii) Integrated Problems, and (iii) Projects.
+
+## Part 1: Introduction to Python and computational methods for exponential functions:
+* [Lesson 0: Interactive exponential plots in Desmos](https://www.desmos.com/calculator/jarsfn73zb)
+* [Lesson 1: An Introduction to Programming in Python (GitHub)](https://github.com/pattichis/GraphFuns2/blob/main/GraphFuns_lesson_1.ipynb)
+[(Google Drive)](https://colab.research.google.com/drive/1NLBXbcxSF7IVQgZpzHFOqDnacdMQg6HR?usp=sharing)
+
+## Part 2: Integrated problems that combine Python with Math exercises:
 * **Problems for book lesson 9-1:** [Exponential Functions](https://github.com/pattichis/GraphFuns2/blob/main/problems/9-1-problems.md).
 * **Problems for book lesson 9-2:** [Transformations of Exponential Functions](https://github.com/pattichis/GraphFuns2/blob/main/problems/9-2-problems.md). 
 * **Problems for book lesson 9-3:** "Writing Exponential Functions"
@@ -17,10 +26,6 @@ Integrated problems that combine Python with Math exercises include:
 * "Module 9 Review"
 
 
-[Lesson 0: Interactive exponential plots in Desmos](https://www.desmos.com/calculator/jarsfn73zb)
-* **Lesson 9-1:** "Exponential Functions"
-  * Click on the link to visualize exponential plots in Desmos.
-
 [Lesson 1: An Introduction to Programming in Python (GitHub)](https://github.com/pattichis/GraphFuns2/blob/main/GraphFuns_lesson_1.ipynb)
 [(Google Drive)](https://colab.research.google.com/drive/1NLBXbcxSF7IVQgZpzHFOqDnacdMQg6HR?usp=sharing)
 * Python using variables
@@ -28,7 +33,7 @@ Integrated problems that combine Python with Math exercises include:
 * Lists
 * for loops
 * Tables
-
+  
 [Lesson 2: Plotting functions and their transformations (GitHub)](https://github.com/pattichis/GraphFuns2/blob/main/GraphFuns_lesson_2_2025.ipynb)[(Google Drive)](https://colab.research.google.com/drive/1ZhILh3Giyk1G4Dx0laAehJfLATLIlsGb?usp=sharing)
 * **Lesson 9-1:** "Exponential Functions"
   * Plotting functions.
