@@ -12,7 +12,7 @@ Second term is $2\cdot 3=6$.<br>
 Third term is $6\cdot 3=18$.<br>
 
 ### Example 9-5.1: Verify geometric sequence (Example 1 from section 9.5 of the book).
-Is $\quad -432, 144, -48, 16$ a geometric sequence?<br>
+Is $\quad -432, 144, -48, 16 \quad$ a geometric sequence?<br>
 If it is a geometric sequence, determine the **common ratio**.<br>
 
 Verify your answer using X.4 from [Homework_funs](https://colab.research.google.com/drive/1voxqdIaLmYPqHsSuhzidIW3HJ3wbg8ID?usp=sharing).
@@ -20,12 +20,12 @@ Verify your answer using X.4 from [Homework_funs](https://colab.research.google.
 ### Example 9-5.2: Find terms of a geometric sequence (Example 3.a. from section 9.5 of the book).
 Find the next three terms in $64, 16, 4, 1$.<br>
 Step 1. Find the common ratio.<br>
-$\qquad \frac{16}{64} = ?, \frac{4}{16} = ?, \frac{1}{4} = ?$.<br>
+$\qquad \frac{16}{64} = ?,\quad \frac{4}{16} = ?,\quad \frac{1}{4} = ?$.<br>
 The common ratio is $r=?$.<br>
 
 Step 2. Multiply by the common ratio.<br>
-$\qquad 1 \cdot \frac{1}{4} = ?, 
- \frac{1}{4}  \cdot \frac{1}{4} = ?, 
+$\qquad 1 \cdot \frac{1}{4} = ?, \quad 
+ \frac{1}{4}  \cdot \frac{1}{4} = ?, \quad 
  \frac{1}{16} \cdot \frac{1}{4} = ?$.<br>
 The next three terms are $?, ?, ?$.<br>
 
