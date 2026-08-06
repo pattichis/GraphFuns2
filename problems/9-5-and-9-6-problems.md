@@ -91,4 +91,12 @@ Compute $a_100$ for $a_n = 3 \cdot 12^{n-1}$.
 
 Verify your answer using X.8 from [Homework_funs](https://colab.research.google.com/drive/1voxqdIaLmYPqHsSuhzidIW3HJ3wbg8ID?usp=sharing).<br>
 
+## Recursive formula for more general problems
+* Consider the more general form: $\quad a_n = r\cdot a_{n-1} + d$.
+
+### Example 9-6.6: General formula for geometric sequence.
+Let $r=2$, $d=5$, $a_1=3$.<br>
+Generate the first five terms of $\quad a_n = r\cdot a_{n-1} + d$.<br>
+
+Verify your answer using X.9 from [Homework_funs](https://colab.research.google.com/drive/1voxqdIaLmYPqHsSuhzidIW3HJ3wbg8ID?usp=sharing).<br>
 
