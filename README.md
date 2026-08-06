@@ -35,6 +35,10 @@ The following lesson can be used after covering section 9-2 or 9-4 of the book:<
 * [Simplified fun project 2: Simplified video animation for drawing a face (GitHub)](https://github.com/pattichis/GraphFuns2/blob/main/Make_face.ipynb)
 [(Google Drive)](https://colab.research.google.com/drive/1vCsq922U7Bg39g2LqN7f9XE9dXmFZtd1?usp=sharing)
 
+## Exemplars of fun projects
+*
+* [Exemplar face projects produced by the students](https://github.com/pattichis/GraphFuns2/blob/main/Projects/face-projects.md)
+
 # List of Python Notebooks with related material
 [Lesson 1: An Introduction to Programming in Python (GitHub)](https://github.com/pattichis/GraphFuns2/blob/main/GraphFuns_lesson_1.ipynb)
 [(Google Drive)](https://colab.research.google.com/drive/1NLBXbcxSF7IVQgZpzHFOqDnacdMQg6HR?usp=sharing)
