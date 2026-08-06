@@ -8,7 +8,7 @@ The exercises are taken from:
 > ISBN: 978-0-07-899743-3.
 
 Typical problems include:
-* **Book lesson 9-1:** [Exponential Functions](https://github.com/pattichis/GraphFuns2/blob/main/problems/9-1-problems.md).
+* **Addendum to book lesson 9-1:** [Exponential Functions](https://github.com/pattichis/GraphFuns2/blob/main/problems/9-1-problems.md).
 * **Book lesson 9-2:** [Transformations of Exponential Functions](https://github.com/pattichis/GraphFuns2/blob/main/problems/9-2-problems.md). 
 * **Book lesson 9-3:** "Writing Exponential Functions"
 * **Book lesson 9-4:** "Transforming Exponential Expressions"
