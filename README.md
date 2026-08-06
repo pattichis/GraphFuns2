@@ -13,7 +13,7 @@ Typical problems include:
 * **Book lesson 9-3:** "Writing Exponential Functions"
 * **Book lesson 9-4:** "Transforming Exponential Expressions"
 * **Book lesson 9-5:** [Geometric Sequences](https://github.com/pattichis/GraphFuns2/blob/main/problems/9-5-problems.md)
-* **Lesson 9-6:** [Recursuve Formulas](https://github.com/pattichis/GraphFuns2/blob/main/problems/9-6-problems.md)
+* **Book lesson 9-6:** [Recursuve Formulas](https://github.com/pattichis/GraphFuns2/blob/main/problems/9-6-problems.md)
 * "Module 9 Review"
 
 
