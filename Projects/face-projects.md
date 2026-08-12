@@ -12,6 +12,6 @@ The following contains deidentified face projects developed by the students.
 
 [Cls1_G3](https://github.com/user-attachments/assets/c7887901-706b-49a8-a747-848ad110f5d9)
 
-[Cls2_G2](https://github.com/user-attachments/assets/fc89ac98-fd27-4d57-ab9d-0ea82523809f)
+[Cls2_G1](https://github.com/user-attachments/assets/fc89ac98-fd27-4d57-ab9d-0ea82523809f)
 
 
