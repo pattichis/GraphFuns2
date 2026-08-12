@@ -1,6 +1,16 @@
 # GraphFuns2: Classroom lessons
 This repo provides functions for visualizing functions using plots and video animations.
 
+# Flower video project example
+[Flower video](https://github.com/user-attachments/assets/59fcb564-6025-4338-b933-9823d32a7fd3)
+
+Student project example project [(Google Colab code in Python)](https://colab.research.google.com/github/pattichis/GraphFuns2/blob/main/Graphfuns_Flower_Project_C3_G3.ipynb),
+((pdf))[https://github.com/pattichis/GraphFuns2/blob/main/Projects/Graphfuns_Flower_Project_C3_G3.pdf].
+
+# Face video project example
+??? Select video for here.
+
+
 The exercises are taken from:
 > **Reveal Algebra 1, volume 2, (interactive student edition)**  
 > **Chapter 9:** "Exponential Functions" (pp. 487-542). 
