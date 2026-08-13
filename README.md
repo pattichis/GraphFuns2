@@ -30,7 +30,7 @@ The curriculum is broken into three sections: (i) Introduction to Python and com
 * **Problems for book lesson 9-1:** [Exponential Functions](https://github.com/pattichis/GraphFuns2/blob/main/problems/9-1-problems.md).
 * **Problems for book lesson 9-2:** [Transformations of Exponential Functions](https://github.com/pattichis/GraphFuns2/blob/main/problems/9-2-problems.md). 
 * **Problems for book lesson 9-3:** "Writing Exponential Functions"
-* **Problems for book lesson 9-4:** "Transforming Exponential Expressions"
+* **Problems for book lesson 9-4:** [Transforming Exponential Expressions](https://github.com/pattichis/GraphFuns2/blob/main/9-4-problems.md)
 * **Problems for book lesson 9-5:** [Geometric Sequences](https://github.com/pattichis/GraphFuns2/blob/main/problems/9-5-problems.md)
 * **Problems for book lesson 9-6:** [Recursuve Formulas](https://github.com/pattichis/GraphFuns2/blob/main/problems/9-6-problems.md)
 * "Module 9 Review"
