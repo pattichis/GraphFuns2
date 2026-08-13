@@ -95,3 +95,6 @@ The following lesson can be used after covering section 9-2 or 9-4 of the book:<
 [Simplified fun project 2: Simplified video animation for drawing a face (GitHub)](https://github.com/pattichis/GraphFuns2/blob/main/Make_face.ipynb)
 [(Google Drive)](https://colab.research.google.com/drive/1vCsq922U7Bg39g2LqN7f9XE9dXmFZtd1?usp=sharing)
 * Simplified version of the activity to create a face
+
+## Acknowledgement
+Some of the material is based upon work supported by the [National Science Foundation under Grant No. 1949230](https://www.nsf.gov/awardsearch/show-award/?AWD_ID=1949230). Any opinions, findings, and conclusions or recommendations expressed in this material are those of the authors and do not necessarily reflect the views of the National Science Foundation.
