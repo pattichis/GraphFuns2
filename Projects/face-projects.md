@@ -8,7 +8,7 @@ The mother function is an exponential of the form: $\quad f1(x) = a \cdot b^{(x-
 Based on the mother function $\quad f1(x)$ specified using:
 >`make_closed_fig(plot, a=0.15, b=2, h=0, k=0, d=0, num_of_points=10)`
 
-generates a closed figure as shown here (no video here):
+generates a closed figure as shown here (no video play for this still image, see video examples below):
 
 ![Still image](https://github.com/pattichis/GraphFuns2/blob/main/Projects/face.png) <br>
 
