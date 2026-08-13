@@ -4,7 +4,7 @@ Construct exponential functions $y = a b ^x$:<br>
 * given a graph.
 * given a description.
 
-For exponential decay, we have:
+For exponential decay, we have:<br>
 $\qquad y = a (1-r)^t$.<br>
 where:<br>
 $\qquad y$ &nbsp; is the final amount.<br>
