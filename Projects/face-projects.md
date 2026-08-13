@@ -6,7 +6,7 @@ For the project, students use closed figures to design a face.<br>
 The mother function is an exponential of the form: $\quad f1(x) = a \cdot b^{(x-c)} + d.$<br>
 
 Based on the mother function $\qquad f1(x)$ specified using:
-``` fsfdgs
+``` make_closed_fig(plot, a=1.5, b=1.25, h=0, k=0, d=10, num_of_points=10)
 ```
 the function generates a closed figure as shown here:
 
@@ -14,7 +14,7 @@ the function generates a closed figure as shown here:
 
 Note that the function generated the functions $\quad f2(x), f3(x), f4(x)$.<br>
 
-By repeatedly using the function `lll`, the students created the video projects listed below.<br>
+By repeatedly using the function `make_closed_fig()`, the students created the video projects listed below.<br>
 
 # Group Project 1 (Exemplar)
 * [Complete Google Colab notebook for running the code](https://github.com/pattichis/GraphFuns2/blob/main/Graphfuns_Face_Project_C1_G2.ipynb)
