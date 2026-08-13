@@ -18,7 +18,18 @@ passes through $(1, 6)$ and $(3, 24)$.
 
 Verify your answer using `Plot any function` from [Homework_funs](https://colab.research.google.com/drive/1voxqdIaLmYPqHsSuhzidIW3HJ3wbg8ID?usp=sharing).
 
-## 9-3.X???. Exponential decay (from Example 6 of 9-3 of the book)
+## 9-3.2. Create an exponential graph given a function (from example 2 from section 9-3 of the book).
+Consider the following graph from the textbook:<br>
+[Graph](https://github.com/pattichis/GraphFuns2/blob/main/problems/graph.png)<br>
+
+Derive an expression of the form &nbsp; $y = a b^x$.<br>
+Verify the expression for:<br>
+$\qquad x = -2, -1, 0, 1.$<br>
+
+Verify that your graph reproduces the same results by using
+`Plot any function` from [Homework_funs](https://colab.research.google.com/drive/1voxqdIaLmYPqHsSuhzidIW3HJ3wbg8ID?usp=sharing).
+
+## 9-3.X???. Exponential decay (from example 6 from section 9-3 of the book)
 In banking, a dormant account is one that has not been used in over a year.
 A bank charges a monthly fee of 0.8% of the account balance on dormant accounts.
 One dormant account initially had a balance of \$1609.
