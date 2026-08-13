@@ -18,16 +18,20 @@ Assume the following:<br>
 $\qquad a \quad \text{initial amount in US dollars.}$<br>
 $\qquad r \quad \text{is the annual percentage rate.}$<br>
 $\qquad t \quad \text{refers to the time in years.}$<br>
+$\qquad A \quad \text{refers to the accumulated capital.}$<br>
 We then have that the amount accumulated over time is given by:<br>
-$\qquad y(t) = a \cdot (1+r)^t$ &nbsp; where &nbsp; $t$ &nbsp; is time in years.<br>
+$\qquad A(t) = a \cdot (1+r)^t$ &nbsp; where &nbsp; $t$ &nbsp; is time in years.<br>
 
 In this example, we have the following substitutions compared to the original form:<br>
+$\qquad A$ &nbsp; replaces &nbsp; $y$.<br>
 $\qquad t$ &nbsp; replaces &nbsp; $x$ &nbsp; as the main variable.<br>
 $\qquad 1+r$ &nbsp; replaces &nbsp; $b$ &nbsp; as a parameter to adjust.<br>
 $\qquad c=d=0$ &nbsp; are fixed.<br>
 
 In order to observe the growth monthly, we need to adjust the equation using:<br>
-$\qquad y(t) = a \cdot \left( (1+r)^{1/12} \right)^{12 t}$ &nbsp; where &nbsp; $t$ &nbsp; is time in months.<br>
+$\qquad A(t) = a \cdot \left( (1+r)^{1/12} \right)^{12 t}$<br>
+In this example, $(1+r)^{1/12}$ calculates the monthly rate growth for an annual rate growth of $(1+r)$.
+
 
 
 
