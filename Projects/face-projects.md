@@ -11,7 +11,7 @@ the function generates a closed figure as shown here:
 
 ![Still image](https://github.com/pattichis/GraphFuns2/blob/main/Projects/face.png)
 
-Note that the function generated the functions $\quad f2(x), f3(x), f4(x)$.<br>
+Note that `make_closed_fig()` generated the functions $\quad f2(x), f3(x), f4(x)$.<br>
 
 By repeatedly using the function `make_closed_fig()`, the students created the video projects listed below.<br>
 
