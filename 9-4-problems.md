@@ -3,14 +3,19 @@ This section is focused on writing equivalent exponential expressions.
 
 In order to verify and compare different exponential expressions, recall the general
 expression:<br>
-$y = a \cdot b^{(x-c)} + d.$<br>
+$\qquad y = a \cdot b^{(x-c)} + d.$<br>
 
 To compare different expressions, we can vary all of the parameters.
 Here is an example for comparing three different functions:<br>
-$\qquad a = a_1, a_2, a_3.$<br>
-$b = b_1, b_2, b_3.$<br>
-$c = c_1, c_2, c_3.$<br>
-$d = d_1, d_2, d_3.$<br>
+$\qquad a = a_1, \, a_2, \, a_3.$<br>
+$\qquad b = b_1, \, b_2, \, b_3.$<br>
+$\qquad c = c_1, \, c_2, \, c_3.$<br>
+$\qquad d = d_1, \, d_2, \, d_3.$<br>
+
+An important application comes from considering different interest rates.<br>
+Consider the case of a savings account with different rates.<br>
+Assume the following:<br>
+$\qquad a \quad \text{ff}$<br>
 
 The basic <br>
 $ y = a (1+r)^t $
