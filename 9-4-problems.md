@@ -13,9 +13,17 @@ $\qquad c = c_1, \, c_2, \, c_3.$<br>
 $\qquad d = d_1, \, d_2, \, d_3.$<br>
 
 An important application comes from considering different interest rates.<br>
-Consider the case of a savings account with different rates.<br>
+Consider a savings account with different rates.<br>
 Assume the following:<br>
-$\qquad a \quad \text{ff}$<br>
+$\qquad a \quad \text{initial amount in US dollars.}$<br>
+$\qquad r \quad \text{is the annual percentage rate.}$<br>
+$\qquad t \quad \text{refers to the time in years.}$<br>
+We then have that the amount accumulated over time is given by:<br>
+$\qquad y(t) = a \, (1+r)^t \quad \text{where $t$ is time in years}. $<br>
+
+In order to observe the growth monthly, we need to adjust the equation using:<br>
+$\qquad y(t) = a \, (1+r)^t \quad \text{where $t$ is time in months}. $<br>
+
 
 The basic <br>
 $ y = a (1+r)^t $
