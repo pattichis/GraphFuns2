@@ -3,13 +3,16 @@
 The following contains deidentified face projects developed by the students.
 
 For the project, students use closed figures to design a face.<br>
-The mother function is an exponential of the form: $\qquad f1 = a \cdot b^{(x-c)} + d.$<br>
+The mother function is an exponential of the form: $\quad f1(x) = a \cdot b^{(x-c)} + d.$<br>
 
-The Python function `lll` then produces a closed figure as shown here:
+Based on the mother function $\qquad f1(x)$ specified using:
+``` fsfdgs
+```
+the function generates a closed figure as shown here:
 
 ![Still image](https://github.com/pattichis/GraphFuns2/blob/main/Projects/face.png)
 
-Note that the function generated the functions $f2, f3, f4$.<br>
+Note that the function generated the functions $\quad f2(x), f3(x), f4(x)$.<br>
 
 By repeatedly using the function `lll`, the students created the video projects listed below.<br>
 
