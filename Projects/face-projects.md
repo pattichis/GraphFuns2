@@ -7,20 +7,19 @@ The mother function is an exponential of the form: $\quad f1(x) = a \cdot b^{(x-
 
 Based on the mother function $\qquad f1(x)$ specified using:
 >`make_closed_fig(plot, a=0.15, b=2, h=0, k=0, d=0, num_of_points=10)`
-the function generates a closed figure as shown here:
+the function generates a closed figure as shown here (no video here):
 
-![Still image](https://github.com/pattichis/GraphFuns2/blob/main/Projects/face.png)
+![Still image](https://github.com/pattichis/GraphFuns2/blob/main/Projects/face.png) <br>
 
 Note that `make_closed_fig()` generated the functions $\quad f2(x), f3(x), f4(x)$.<br>
 
 By repeatedly using the function `make_closed_fig()`, the students created the video projects listed below.<br>
 
-# Group Project 1 (Exemplar)
-* [Complete Google Colab notebook for running the code](https://github.com/pattichis/GraphFuns2/blob/main/Graphfuns_Face_Project_C1_G2.ipynb)
-* [PDF printout of the code subset developed by the students](https://github.com/pattichis/GraphFuns2/blob/main/Projects/Graphfuns_Face_Project_C1_G2.pdf)
+** In the following examples, click play to see the videos. The code is given below each example. **
 
-## Group Project 1 Video: Cl1, G2
 [Cls1_G2](https://github.com/user-attachments/assets/36a98c7f-c002-46e6-88d9-83f7de39f257)
+[Complete Google Colab notebook for running the code](https://github.com/pattichis/GraphFuns2/blob/main/Graphfuns_Face_Project_C1_G2.ipynb)<br>
+[PDF printout of the code subset developed by the students](https://github.com/pattichis/GraphFuns2/blob/main/Projects/Graphfuns_Face_Project_C1_G2.pdf)<br>
 
 ## Cls 1, G3
 [Cls1_G3](https://github.com/user-attachments/assets/c7887901-706b-49a8-a747-848ad110f5d9)
