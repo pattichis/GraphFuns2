@@ -19,10 +19,10 @@ $\qquad a \quad \text{initial amount in US dollars.}$<br>
 $\qquad r \quad \text{is the annual percentage rate.}$<br>
 $\qquad t \quad \text{refers to the time in years.}$<br>
 We then have that the amount accumulated over time is given by:<br>
-$\qquad y(t) = a (1+r)^t$ &nbsp; where &nbsp; $t$ &nbsp; is time in years.<br>
+$\qquad y(t) = a \cdot (1+r)^t$ &nbsp; where &nbsp; $t$ &nbsp; is time in years.<br>
 
 In order to observe the growth monthly, we need to adjust the equation using:<br>
-$\qquad y(t) = a ((1+r)^{1/12})^{12 t}$ &nbsp; where &nbsp; $t$ &nbsp; is time in months.<br>
+$\qquad y(t) = a \cdot \left( (1+r)^{1/12} \right)^{12 t}$ &nbsp; where &nbsp; $t$ &nbsp; is time in months.<br>
 
 
 
