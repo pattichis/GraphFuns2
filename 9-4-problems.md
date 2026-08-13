@@ -24,7 +24,7 @@ $\qquad y(t) = a \cdot (1+r)^t$ &nbsp; where &nbsp; $t$ &nbsp; is time in years.
 In this example, we have the following substitutions compared to the original form:<br>
 $\qquad t$ &nbsp; replaces &nbsp; $x$ &nbsp; as the main variable.<br>
 $\qquad 1+r$ &nbsp; replaces &nbsp; $b$ &nbsp; as a parameter to adjust.<br>
-$\qquad c=d=0 &nbsp; are fixed.<br>
+$\qquad c=d=0$ &nbsp; are fixed.<br>
 
 In order to observe the growth monthly, we need to adjust the equation using:<br>
 $\qquad y(t) = a \cdot \left( (1+r)^{1/12} \right)^{12 t}$ &nbsp; where &nbsp; $t$ &nbsp; is time in months.<br>
