@@ -16,8 +16,7 @@ Consider the following graph from the textbook:<br>
 ![Graph](https://github.com/pattichis/GraphFuns2/blob/main/problems/graph.png)<br>
 
 Derive an expression of the form &nbsp; $y = a b^x$.<br>
-Verify the expression for:<br>
-$\qquad x = -2, -1, 0, 1.$<br>
+Verify the expression for $x = -2, -1, 0, 1.$<br>
 
 Verify that your graph reproduces the same results by using
 `Plot any function` from [Homework_funs](https://colab.research.google.com/drive/1voxqdIaLmYPqHsSuhzidIW3HJ3wbg8ID?usp=sharing).
