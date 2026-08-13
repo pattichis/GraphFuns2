@@ -4,14 +4,6 @@ Construct exponential functions $y = a b ^x$:<br>
 * given a graph.
 * given a description.
 
-For exponential decay, we have:<br>
-$\qquad y = a (1-r)^t$.<br>
-where:<br>
-$\qquad y$ &nbsp; is the final amount.<br>
-$\qquad a$ &nbsp; is the initial amount.<br>
-$\qquad t$ &nbsp; represents time.<br>
-$\qquad r$ &nbsp; represents the rate of decay expressed as a decimal: &nbsp; $0< r < 1$.<br>
-
 ## 9-3.1. Verify the graph given two points (from example 1 from Section 9-3 of the book).
 Consider the exponential function for the graph that
 passes through $(1, 6)$ and $(3, 24)$.
@@ -29,7 +21,17 @@ $\qquad x = -2, -1, 0, 1.$<br>
 Verify that your graph reproduces the same results by using
 `Plot any function` from [Homework_funs](https://colab.research.google.com/drive/1voxqdIaLmYPqHsSuhzidIW3HJ3wbg8ID?usp=sharing).
 
-## 9-3.X???. Exponential decay (from example 6 from section 9-3 of the book)
+## 9-3.3. Exponential decay (from example 6 from section 9-3 of the book)
+For exponential decay, we have:<br>
+$\qquad y = a (1-r)^t$.<br>
+where:<br>
+$\qquad y$ &nbsp; is the final amount.<br>
+$\qquad a$ &nbsp; is the initial amount.<br>
+$\qquad t$ &nbsp; represents time.<br>
+$\qquad r$ &nbsp; represents the rate of decay expressed as a decimal: &nbsp; $0< r < 1$.<br>
+
+We next list a problem that uses exponential decay.<br>
+
 In banking, a dormant account is one that has not been used in over a year.
 A bank charges a monthly fee of 0.8% of the account balance on dormant accounts.
 One dormant account initially had a balance of \$1609.
