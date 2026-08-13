@@ -2,6 +2,17 @@
 
 The following contains deidentified face projects developed by the students.
 
+For the project, students use closed figures to design a face.<br>
+The mother function is an exponential of the form: $\qquad f1 = a \cdot b^{(x-c)} + d.$<br>
+
+The Python function `lll` then produces a closed figure as shown here:
+
+![Still image](https://github.com/pattichis/GraphFuns2/blob/main/Projects/face.png)
+
+Note that the function generated the functions $f2, f3, f4$.<br>
+
+By repeatedly using the function `lll`, the students created the video projects listed below.<br>
+
 # Group Project 1 (Exemplar)
 * [Complete Google Colab notebook for running the code](https://github.com/pattichis/GraphFuns2/blob/main/Graphfuns_Face_Project_C1_G2.ipynb)
 * [PDF printout of the code subset developed by the students](https://github.com/pattichis/GraphFuns2/blob/main/Projects/Graphfuns_Face_Project_C1_G2.pdf)
