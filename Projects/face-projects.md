@@ -17,7 +17,7 @@ Note that `make_closed_fig()` generated the functions $\quad f2(x), f3(x), f4(x)
 By repeatedly using the function `make_closed_fig()`, the students created the video projects listed below.<br>
 
 
-**In the following examples, click play to see the videos.**<br>  
+**In the following examples, click play to see the videos.**
 **The code is given below each example.**
 
 [Cls1_G2](https://github.com/user-attachments/assets/36a98c7f-c002-46e6-88d9-83f7de39f257)
