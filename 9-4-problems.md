@@ -7,10 +7,10 @@ $y = a \cdot b^{(x-c)} + d.$<br>
 
 To compare different expressions, we can vary all of the parameters.
 Here is an example for comparing three different functions:<br>
-$ a = a_1, a_2, a_3.$<br>
-$ b = b_1, b_2, b_3.$<br>
-$ c = c_1, c_2, c_3.$<br>
-$ d = d_1, d_2, d_3.$<br>
+$\qquad a = a_1, a_2, a_3.$<br>
+$b = b_1, b_2, b_3.$<br>
+$c = c_1, c_2, c_3.$<br>
+$d = d_1, d_2, d_3.$<br>
 
 The basic <br>
 $ y = a (1+r)^t $
