@@ -5,9 +5,10 @@ The following contains deidentified face projects developed by the students.
 For the project, students use closed figures to design a face.<br>
 The mother function is an exponential of the form: $\quad f1(x) = a \cdot b^{(x-c)} + d.$<br>
 
-Based on the mother function $\qquad f1(x)$ specified using:
+Based on the mother function $\quad f1(x)$ specified using:
 >`make_closed_fig(plot, a=0.15, b=2, h=0, k=0, d=0, num_of_points=10)`
-the function generates a closed figure as shown here (no video here):
+
+generates a closed figure as shown here (no video here):
 
 ![Still image](https://github.com/pattichis/GraphFuns2/blob/main/Projects/face.png) <br>
 
