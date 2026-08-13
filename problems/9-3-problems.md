@@ -12,7 +12,7 @@ Verify your answer using `Plot any function` from [Homework_funs](https://colab.
 
 ## 9-3.2. Create an exponential graph given a function (from example 2 from section 9-3 of the book).
 Consider the following graph from the textbook:<br>
-[Graph](https://github.com/pattichis/GraphFuns2/blob/main/problems/graph.png)<br>
+![Graph](https://github.com/pattichis/GraphFuns2/blob/main/problems/graph.png)<br>
 
 Derive an expression of the form &nbsp; $y = a b^x$.<br>
 Verify the expression for:<br>
