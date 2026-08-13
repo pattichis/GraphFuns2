@@ -4,6 +4,10 @@ This repo provides functions for visualizing functions using plots and video ani
 # Flower video project example
 [Flower video](https://github.com/user-attachments/assets/59fcb564-6025-4338-b933-9823d32a7fd3)
 
+[Flower video 2](https://github.com/user-attachments/assets/96c883ec-0264-41fb-afd8-c29caa687812)
+
+
+
 Student project example project [(Google Colab code in Python)](https://colab.research.google.com/github/pattichis/GraphFuns2/blob/main/Graphfuns_Flower_Project_C3_G3.ipynb),
 [(pdf)](https://github.com/pattichis/GraphFuns2/blob/main/Projects/Graphfuns_Flower_Project_C3_G3.pdf).
 
