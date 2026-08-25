@@ -9,6 +9,7 @@ Student project example project [(Google Colab code in Python)](https://colab.re
 
 # Face video project example
 ??? Select video for here.
+
 [Cls 3, G3](https://github.com/user-attachments/assets/85cbe3b2-e85c-40eb-9481-a6494718c329)
 
 The exercises are taken from:
