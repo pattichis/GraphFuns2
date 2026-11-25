@@ -1,3 +1,4 @@
+# [Switch to English](README.md)
 # GraphFuns2: lecciones para el salón
 Este repositorio ofrece funciones para visualizar funciones con gráficas y animaciones en video.
 
