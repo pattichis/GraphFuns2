@@ -9,8 +9,6 @@ Ejemplo de un proyecto de estudiantes [(código de Python en Google Colab, en in
 [(pdf)](https://github.com/pattichis/GraphFuns2/blob/main/Projects/Graphfuns_Flower_Project_C3_G3.pdf).
 
 # Ejemplo del proyecto de video de la cara
-??? Elegir el video para esta sección.
-
 [Clase 3, grupo 3](https://github.com/user-attachments/assets/85cbe3b2-e85c-40eb-9481-a6494718c329)
 
 Los ejercicios se tomaron de:
