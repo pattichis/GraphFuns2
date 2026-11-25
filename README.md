@@ -1,3 +1,4 @@
+# [Switch to Spanish](README_es.md)
 # GraphFuns2: Classroom lessons
 This repo provides functions for visualizing functions using plots and video animations.
 
@@ -8,8 +9,6 @@ Student project example project [(Google Colab code in Python)](https://colab.re
 [(pdf)](https://github.com/pattichis/GraphFuns2/blob/main/Projects/Graphfuns_Flower_Project_C3_G3.pdf).
 
 # Face video project example
-??? Select video for here.
-
 [Cls 3, G3](https://github.com/user-attachments/assets/85cbe3b2-e85c-40eb-9481-a6494718c329)
 
 The exercises are taken from:
